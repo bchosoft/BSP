@@ -14,7 +14,13 @@ With the Suite you can manage and organize your TONEX content, export and prepar
 
 The application includes a complete manual in several languages.
 
-Download the latest version for your operating system from [GitHub Releases](https://github.com/bchosoft/BSP/releases/latest).
+**Download the latest version:**
+[Windows](https://bcho-downloads.bcho.workers.dev/dl/latest/windows) ·
+[Linux](https://bcho-downloads.bcho.workers.dev/dl/latest/linux) ·
+[macOS (Apple Silicon)](https://bcho-downloads.bcho.workers.dev/dl/latest/macos-apple) ·
+[macOS (Intel)](https://bcho-downloads.bcho.workers.dev/dl/latest/macos-intel)
+
+Or browse all versions and release notes on [GitHub Releases](https://github.com/bchosoft/BSP/releases/latest).
 
 ## Español
 
@@ -24,4 +30,10 @@ Con la Suite puedes gestionar y organizar tu contenido de TONEX, exportar y prep
 
 La aplicación incluye un manual completo en varios idiomas.
 
-Descarga la última versión para tu sistema operativo desde [GitHub Releases](https://github.com/bchosoft/BSP/releases/latest).
+**Descarga la última versión:**
+[Windows](https://bcho-downloads.bcho.workers.dev/dl/latest/windows) ·
+[Linux](https://bcho-downloads.bcho.workers.dev/dl/latest/linux) ·
+[macOS (Apple Silicon)](https://bcho-downloads.bcho.workers.dev/dl/latest/macos-apple) ·
+[macOS (Intel)](https://bcho-downloads.bcho.workers.dev/dl/latest/macos-intel)
+
+O consulta todas las versiones y notas de la release en [GitHub Releases](https://github.com/bchosoft/BSP/releases/latest).
