@@ -1,4 +1,4 @@
-![Bcho Suite Pro](anuncio-v1.0.png)
+![Bcho Suite Pro](suite_no_donation.png)
 
 > ⚠️ **Use at your own responsibility.** BCho makes these tools available for you to use at your own responsibility. You should only use them on collections you are licensed to own.
 >
@@ -13,6 +13,8 @@
 With the Suite you can manage and organize your TONEX content, export and prepare presets, create or merge libraries, import collections, make backups of compatible pedals and edit presets with a clear multilingual interface.
 
 The application includes a complete manual in several languages.
+
+Version 1.1.0 adds selected pedal-slot export with or without BCho, creation of new `Library.db` files from pedal slots, improved backup and restore workflows, better selection and progress feedback, and manual update checking from Settings.
 
 **Download the latest version:**
 [Windows](https://bcho-downloads.bcho.workers.dev/dl/latest/windows) ·
@@ -37,3 +39,5 @@ La aplicación incluye un manual completo en varios idiomas.
 [macOS (Intel)](https://bcho-downloads.bcho.workers.dev/dl/latest/macos-intel)
 
 O consulta todas las versiones y notas de la release en [GitHub Releases](https://github.com/bchosoft/BSP/releases/latest).
+
+La versión 1.1.0 añade la exportación de slots seleccionados del pedal con o sin BCho, la creación de nuevas `Library.db` desde slots del pedal, mejoras en backups y restauraciones, mejores indicadores de selección y progreso, y la búsqueda manual de actualizaciones desde Ajustes.
