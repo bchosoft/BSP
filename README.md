@@ -14,7 +14,7 @@ With the Suite you can manage and organize your TONEX content, export and prepar
 
 The application includes a complete manual in several languages.
 
-Version 1.1.0 adds selected pedal-slot export with or without BCho, creation of new `Library.db` files from pedal slots, improved backup and restore workflows, better selection and progress feedback, and manual update checking from Settings.
+Version 1.1.5 adds fully bidirectional TONEX Pedal editing: physical preset, parameter and save changes are reflected in the app, while USB Pedal I/O and the editor share a cached slot list without unnecessary full rereads. It also adds safe unsaved-change handling, saved-vs-current comparison, Live revert, temporary recovery presets, automatic USB reconnection, detailed connection states, modified-preset badges, activity history and integrated diagnostics. TONEX Pedal slots now match the hardware numbering, 0–149.
 
 **Download the latest version:**
 [Windows](https://bcho-downloads.bcho.workers.dev/dl/latest/windows) ·
@@ -40,4 +40,4 @@ La aplicación incluye un manual completo en varios idiomas.
 
 O consulta todas las versiones y notas de la release en [GitHub Releases](https://github.com/bchosoft/BSP/releases/latest).
 
-La versión 1.1.0 añade la exportación de slots seleccionados del pedal con o sin BCho, la creación de nuevas `Library.db` desde slots del pedal, mejoras en backups y restauraciones, mejores indicadores de selección y progreso, y la búsqueda manual de actualizaciones desde Ajustes.
+La versión 1.1.5 añade edición completamente bidireccional del TONEX Pedal: los cambios físicos de preset, parámetros y guardado se reflejan en la app, mientras USB Pedal I/O y el editor comparten la lista de slots sin relecturas completas innecesarias. También incorpora protección ante cambios sin guardar, comparación guardado-actual, reversión Live, presets temporales de recuperación, reconexión USB automática, estados de conexión detallados, distintivos de preset modificado, historial de actividad y diagnóstico integrado. La numeración del TONEX Pedal coincide ahora con el hardware: 0–149.
