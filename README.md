@@ -14,6 +14,8 @@ With the Suite you can manage and organize your TONEX content, export and prepar
 
 The application includes a complete manual in several languages.
 
+Version 1.1.6 fixes an issue when importing folders into a new or existing `Library.db` where presets were saved with an outdated format version. TONEX could consequently display default or incorrect effects in the preset editor and overwrite the correct effects when closing it. Imported presets now use the current format version and preserve their effects correctly. This issue was resolved thanks to a user who identified and reported it, and we greatly appreciate their feedback.
+
 Version 1.1.5 adds fully bidirectional TONEX Pedal editing: physical preset, parameter and save changes are reflected in the app, while USB Pedal I/O and the editor share a cached slot list without unnecessary full rereads. It also adds safe unsaved-change handling, saved-vs-current comparison, Live revert, temporary recovery presets, automatic USB reconnection, detailed connection states, modified-preset badges, activity history and integrated diagnostics. TONEX Pedal slots now match the hardware numbering, 0–149.
 
 **Download the latest version:**
@@ -31,6 +33,8 @@ Or browse all versions and release notes on [GitHub Releases](https://github.com
 Con la Suite puedes gestionar y organizar tu contenido de TONEX, exportar y preparar presets, crear o fusionar bibliotecas, importar colecciones, hacer copias de seguridad de pedales compatibles y editar presets desde una interfaz clara y multilingüe.
 
 La aplicación incluye un manual completo en varios idiomas.
+
+La versión 1.1.6 corrige un problema al importar carpetas en una `Library.db` nueva o existente que guardaba los presets con una versión de formato obsoleta. Esto podía hacer que TONEX mostrase efectos predeterminados o incorrectos en el editor del preset y sobrescribiese los efectos correctos al cerrarlo. Los presets importados ahora utilizan la versión de formato actual y conservan correctamente sus efectos. Este problema ha sido solucionado gracias a su detección por parte de un usuario, al que agradecemos enormemente sus comentarios.
 
 **Descarga la última versión:**
 [Windows](https://bcho-downloads.bcho.workers.dev/dl/latest/windows) ·
