@@ -1,10 +1,20 @@
-![Bcho Suite Pro 2.5.0](Portada_2.5.png)
+![Bcho Suite Pro 2.5.1](Portada_2.5.1.png)
 
 > ⚠️ **Use at your own responsibility.** BCho makes these tools available for you to use at your own responsibility. You should only use them on collections you are licensed to own.
 >
 > ⚠️ **Uso bajo tu responsabilidad.** BCho pone estas herramientas a tu disposición para que las utilices bajo tu propia responsabilidad. Deberías usarlas únicamente sobre colecciones de las que poseas la licencia.
 
 # Bcho Suite Pro
+
+Version **2.5.1** adds editable internal names for NAM --> TONEX presets, clarifies the separate registration process and updates the opening screen and all ten PDF manuals with the new cover. The preset name shown in TONEX is independent of the .txp filename.
+
+La versión **2.5.1** permite editar el nombre interno de los presets NAM --> TONEX, aclara el proceso de registro independiente y actualiza el splash y los diez manuales PDF con la nueva portada. El nombre mostrado en TONEX es independiente del nombre del archivo .txp.
+
+
+**NAM --> TONEX: editable preset name.** Before saving a converted TXP, you can edit the internal preset name shown on the TONEX Pedal and in TONEX software. The complete current name is proposed, including its generated BCho suffix. The 32-byte UTF-8 limit is checked without silent truncation. The filename and location are chosen separately; renaming does not change audio or effects.
+
+**NAM --> TONEX: nombre del preset editable.** Antes de guardar un TXP convertido puedes editar el nombre interno que se muestra en el TONEX Pedal y en el software TONEX. Se propone el nombre actual completo, incluido el sufijo BCho generado. Se valida el límite de 32 bytes UTF-8 sin recortes silenciosos. El nombre del archivo y la ubicación se eligen por separado; renombrar no cambia el sonido ni los efectos.
+
 
 ## English
 
