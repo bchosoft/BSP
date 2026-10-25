@@ -31,10 +31,10 @@ Version 1.1.6 fixes an issue when importing folders into a new or existing `Libr
 Version 1.1.5 adds fully bidirectional TONEX Pedal editing: physical preset, parameter and save changes are reflected in the app, while USB Pedal I/O and the editor share a cached slot list without unnecessary full rereads. It also adds safe unsaved-change handling, saved-vs-current comparison, Live revert, temporary recovery presets, automatic USB reconnection, detailed connection states, modified-preset badges, activity history and integrated diagnostics. TONEX Pedal slots now match the hardware numbering, 0–149.
 
 **Download the latest version:**
-[Windows](https://bcho-downloads.bcho.workers.dev/dl/v2.5.0/windows) ·
-[Linux](https://bcho-downloads.bcho.workers.dev/dl/v2.5.0/linux) ·
-[macOS (Apple Silicon)](https://bcho-downloads.bcho.workers.dev/dl/v2.5.0/macos-apple) ·
-[macOS (Intel)](https://bcho-downloads.bcho.workers.dev/dl/v2.5.0/macos-intel)
+[Windows](https://github.com/bchosoft/BSP/releases/download/v2.5.1/Bcho-Suite-Pro-Windows-x64-v2.5.1.zip) ·
+[Linux](https://github.com/bchosoft/BSP/releases/download/v2.5.1/Bcho-Suite-Pro-Linux-x64-v2.5.1.zip) ·
+[macOS (Apple Silicon)](https://github.com/bchosoft/BSP/releases/download/v2.5.1/Bcho-Suite-Pro-macOS-Apple-Silicon-v2.5.1.zip) ·
+[macOS (Intel)](https://github.com/bchosoft/BSP/releases/download/v2.5.1/Bcho-Suite-Pro-macOS-Intel-v2.5.1.zip)
 
 Or browse all versions and release notes on [GitHub Releases](https://github.com/bchosoft/BSP/releases/latest).
 
@@ -51,10 +51,10 @@ La versión 2.5.0 añade compatibilidad completa con bibliotecas clásicas y TON
 La versión 1.1.6 corrige un problema al importar carpetas en una `Library.db` nueva o existente que guardaba los presets con una versión de formato obsoleta. Esto podía hacer que TONEX mostrase efectos predeterminados o incorrectos en el editor del preset y sobrescribiese los efectos correctos al cerrarlo. Los presets importados ahora utilizan la versión de formato actual y conservan correctamente sus efectos. Este problema ha sido solucionado gracias a su detección por parte de un usuario, al que agradecemos enormemente sus comentarios.
 
 **Descarga la última versión:**
-[Windows](https://bcho-downloads.bcho.workers.dev/dl/v2.5.0/windows) ·
-[Linux](https://bcho-downloads.bcho.workers.dev/dl/v2.5.0/linux) ·
-[macOS (Apple Silicon)](https://bcho-downloads.bcho.workers.dev/dl/v2.5.0/macos-apple) ·
-[macOS (Intel)](https://bcho-downloads.bcho.workers.dev/dl/v2.5.0/macos-intel)
+[Windows](https://github.com/bchosoft/BSP/releases/download/v2.5.1/Bcho-Suite-Pro-Windows-x64-v2.5.1.zip) ·
+[Linux](https://github.com/bchosoft/BSP/releases/download/v2.5.1/Bcho-Suite-Pro-Linux-x64-v2.5.1.zip) ·
+[macOS (Apple Silicon)](https://github.com/bchosoft/BSP/releases/download/v2.5.1/Bcho-Suite-Pro-macOS-Apple-Silicon-v2.5.1.zip) ·
+[macOS (Intel)](https://github.com/bchosoft/BSP/releases/download/v2.5.1/Bcho-Suite-Pro-macOS-Intel-v2.5.1.zip)
 
 O consulta todas las versiones y notas de la release en [GitHub Releases](https://github.com/bchosoft/BSP/releases/latest).
 
