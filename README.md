@@ -17,7 +17,7 @@ Cada ZIP incluye la aplicación y **diez manuales PDF nuevos**, uno por idioma: 
 
 ### Descargas
 
-[Windows x64](https://github.com/bchosoft/BSP/releases/download/v2.5.5/Bcho-Suite-Pro-Windows-x64-v2.5.5.zip)
+[Windows x64](https://github.com/bchosoft/BSP/releases/download/v2.5.5/Bcho-Suite-Pro-Windows-x64-v2.5.5.zip) · [macOS Universal](https://github.com/bchosoft/BSP/releases/download/v2.5.5/Bcho-Suite-Pro-macOS-Universal-v2.5.5.zip) · [macOS Apple Silicon](https://github.com/bchosoft/BSP/releases/download/v2.5.5/Bcho-Suite-Pro-macOS-Apple-Silicon-v2.5.5.zip) · [macOS Intel](https://github.com/bchosoft/BSP/releases/download/v2.5.5/Bcho-Suite-Pro-macOS-Intel-v2.5.5.zip) · [Linux x64](https://github.com/bchosoft/BSP/releases/download/v2.5.5/Bcho-Suite-Pro-Linux-x64-v2.5.5.zip)
 
 Extrae el ZIP completo antes de abrir la aplicación. En Windows conserva Bcho-Suite-Pro.exe junto a BchoSuiteNamEngine.dll; se necesita el runtime Microsoft Edge WebView2. En macOS conserva la aplicación .app completa. En Linux conserva el ejecutable junto a libBchoSuiteNamEngine.so y utiliza una distribución con GTK 3 y WebKitGTK 4.1. Lee el manual de tu idioma dentro de MANUAL.
 
@@ -42,7 +42,7 @@ Every ZIP includes the application and **ten new illustrated PDF manuals**, one 
 
 ### Downloads
 
-[Windows x64](https://github.com/bchosoft/BSP/releases/download/v2.5.5/Bcho-Suite-Pro-Windows-x64-v2.5.5.zip)
+[Windows x64](https://github.com/bchosoft/BSP/releases/download/v2.5.5/Bcho-Suite-Pro-Windows-x64-v2.5.5.zip) · [macOS Universal](https://github.com/bchosoft/BSP/releases/download/v2.5.5/Bcho-Suite-Pro-macOS-Universal-v2.5.5.zip) · [macOS Apple Silicon](https://github.com/bchosoft/BSP/releases/download/v2.5.5/Bcho-Suite-Pro-macOS-Apple-Silicon-v2.5.5.zip) · [macOS Intel](https://github.com/bchosoft/BSP/releases/download/v2.5.5/Bcho-Suite-Pro-macOS-Intel-v2.5.5.zip) · [Linux x64](https://github.com/bchosoft/BSP/releases/download/v2.5.5/Bcho-Suite-Pro-Linux-x64-v2.5.5.zip)
 
 Extract the entire ZIP before launching. On Windows keep Bcho-Suite-Pro.exe beside BchoSuiteNamEngine.dll; Microsoft Edge WebView2 Runtime is required. On macOS keep the complete .app bundle. On Linux keep the executable beside libBchoSuiteNamEngine.so and use a distribution providing GTK 3 and WebKitGTK 4.1. Open the manual for your language in MANUAL.
 
