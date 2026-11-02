@@ -1,4 +1,4 @@
-![Bcho Suite Pro](standalone.png)
+![Bcho Suite Pro 2.5.5](Portada_2.5.5.png)
 
 # Bcho Suite Pro 2.5.5
 
